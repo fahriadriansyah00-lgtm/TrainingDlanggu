@@ -1,4 +1,4 @@
-const tombolhalo = document.getElementById('10');
+const tombolhalo = document.getElementById('tombol');
 tombolhalo.addEventListener('click',function() {
   alert('Halo! Terima kasih sudah berkunjung!');
 });
